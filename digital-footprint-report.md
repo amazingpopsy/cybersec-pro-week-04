@@ -9,7 +9,7 @@ I searched for my email and discovered it has been in a data breach.
 # LinkedIn Profile
 My experience, skills, education, license and certifications, my posts and what was written in my bio were all visible.
 # Shodan
-## My IPadress
+## My IPaddress
 No visible result relating to my IPaddress was found on shodan.
 #
 I feel little bit bothered about the fact that my email has suffered a data breach and I will make sure to update my passwords for accounts relating to the email.
