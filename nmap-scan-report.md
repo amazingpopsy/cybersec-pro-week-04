@@ -35,4 +35,4 @@
 - General: Remove unnecessary services, implement host-based firewall rules, regularly patch the operating system and applications, and monitor exposed ports for unexpected changes.
     
      ## Appendix: Raw Scan Output
-     [Link to your .nmap output file]
+    https://github.com/amazingpopsy/cybersec-pro-week-04/blob/main/fullscan.nmap
