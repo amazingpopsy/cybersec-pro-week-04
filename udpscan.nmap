@@ -1,0 +1,15 @@
+# Nmap 7.94SVN scan initiated Tue Sep 29 12:54:23 2026 as: /usr/lib/nmap/nmap --privileged -sU --top-ports 50 -oA udpscan 192.168.230.131
+Nmap scan report for 192.168.230.131
+Host is up (0.0012s latency).
+Not shown: 43 closed udp ports (port-unreach)
+PORT     STATE         SERVICE
+53/udp   open          domain
+68/udp   open|filtered dhcpc
+69/udp   open|filtered tftp
+111/udp  open          rpcbind
+137/udp  open          netbios-ns
+138/udp  open|filtered netbios-dgm
+2049/udp open          nfs
+MAC Address: 00:0C:29:A8:7A:E0 (VMware)
+
+# Nmap done at Tue Sep 29 12:55:12 2026 -- 1 IP address (1 host up) scanned in 48.64 seconds

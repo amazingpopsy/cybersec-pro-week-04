@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Tue Sep 29 12:54:23 2026 as: /usr/lib/nmap/nmap --privileged -sU --top-ports 50 -oA udpscan 192.168.230.131
+Host: 192.168.230.131 ()	Status: Up
+Host: 192.168.230.131 ()	Ports: 53/open/udp//domain///, 68/open|filtered/udp//dhcpc///, 69/open|filtered/udp//tftp///, 111/open/udp//rpcbind///, 137/open/udp//netbios-ns///, 138/open|filtered/udp//netbios-dgm///, 2049/open/udp//nfs///	Ignored State: closed (43)
+# Nmap done at Tue Sep 29 12:55:12 2026 -- 1 IP address (1 host up) scanned in 48.64 seconds
